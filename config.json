@@ -1,7 +1,7 @@
 {
     "title":"SquareBlock's Blog",
     "subTitle":{
-        html:"SquareBlock在GitHub上托管的博客    Powered By <a href="https://github.com/Meekdai/Gmeek">Gmeek</a> & <a href="https://github.com">GitHub Pages</a>"
+        "html":"SquareBlock在GitHub上托管的博客    Powered By <a href="https://github.com/Meekdai/Gmeek">Gmeek</a> & <a href="https://github.com">GitHub Pages</a>"
     },
     "avatarUrl":"https://raw.githubusercontent.com/SquareBlock/SquareBlock.github.io/main/resources/%E9%9D%99%E9%A6%99.jpg",
     "GMEEK_VERSION":"last"
